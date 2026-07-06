@@ -23,7 +23,7 @@ Cuando necesitas auditar la geometría de un modelo o verificar la información 
 ## 📂 Estructura del Repositorio
 
 * 📁 **`CODIGO/`**: Contiene el código fuente principal de la interfaz y el motor 3D (`visor_ifc.py`).
-* 📁 **`PROGRAMA/`**: Contenedor del programa ya compilado (`.exe`) junto con sus librerías de soporte.
+* 📁 **`PROGRAMA/`**: Contenedor del programa ya compilado (`.exe`) junto con sus librerías de soporte. Lamentablemente el archivo queda muy grande para alojarlo en GITHUB, por lo que os toca hacerlo por vuestra cuenta... XD
 
 ## ⚙️ Requisitos para el Código Fuente
 
